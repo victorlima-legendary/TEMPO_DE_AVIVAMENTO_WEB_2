@@ -1,0 +1,118 @@
+.main__content--aboutus {
+  display: flex;
+  justify-content: start;
+  flex-wrap: wrap;
+  width: 90%;
+  margin-top: -90px;
+  padding-bottom: 50px;
+}
+
+/* ==================== */
+
+.main__content--aboutus span {
+  text-transform: uppercase;
+  white-space: nowrap;
+  font-weight: 700;
+  display: flex;
+  gap: 10px;
+  width: 100%;
+  padding: 50px 20px 28px 40px;
+  font-size: 25px;
+  border-bottom: 1px solid rgb(255, 251, 251);
+  font-size: clamp(20px, 8vw, 2rem);
+}
+
+.content-logo {
+  display: flex;
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  border: 4px solid rgba(255, 255, 255, 0.55);
+  border-style: double;
+  overflow: hidden;
+  align-items: center;
+  background-image: url("../assets/Ministério_Colheita.png");
+  background-position: center;
+  background-size: 250px;
+  background-repeat: no-repeat;
+  background-clip: border-box;
+  background-color: #000;
+}
+
+#section-aboutus {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  width: 100%;
+  flex-grow: 1;
+  height: 100%;
+}
+
+#section-aboutus p {
+  max-width: 700px;
+  line-height: 22px;
+  font-size: 18px;
+  text-align: justify;
+}
+
+.logo {
+  padding: 20px;
+}
+
+.content--aboutus {
+  padding-top: 20px;
+  gap: 20px;
+  display: flex;
+  margin: 0 30px;
+}
+
+@media only screen and (max-width: 600px) {
+  .contato_btn {
+    display: none;
+  }
+
+  .page-background main .page-slider {
+    width: 98%;
+  }
+
+  .main__audio-player {
+    justify-content: center;
+  }
+
+  .main__audio-player a button {
+    display: none;
+  }
+
+  .main-eventos .main-eventos__content {
+    width: 90%;
+  }
+
+  .main__palavra-do-dia {
+    margin-top: 0;
+    flex-direction: column;
+  }
+
+  .pedido {
+    border: none;
+    margin: 0;
+    padding: 0;
+    height: 90px;
+    justify-content: center;
+  }
+
+  .main-imagens .main-imagens__content {
+    width: 90%;
+  }
+
+  .content--aboutus {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  #section-aboutus p {
+    text-align: justify;
+  }
+  .main__content--aboutus {
+    margin-top: 0;
+  }
+}
