@@ -4,7 +4,7 @@
 
 ### WEB RÁDIO TEMPO DE AVIVAMENTO, CRIADO POR MIM E ADMINISTRADO PELA MISS. SUELI F. SANTOS.
 </br>
-(WEB RADIO TIME OF REVIVAL, CREATED BY ME AND ADMINISTERED BY MISS. SUELI F. SANTOS).
+(WEB RADIO TEMPO DE AVIVAMENTO, CREATED BY ME AND ADMINISTERED BY MISS. SUELI F. SANTOS).
 </br>
 </br>
 <p>Why? from now on, next version of this website will be private. beacause of this, this repository will no longer be updated. this first version is here to help me with my portfolio.<p>
