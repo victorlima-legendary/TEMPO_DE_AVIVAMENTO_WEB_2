@@ -10,7 +10,7 @@
 <p>Why? from now on, next version of this website will be private. beacause of this, this repository will no longer be updated. this first version is here to help me with my portfolio.<p>
 </br>
 <h1 align="center">🚀 PROJETO WEB RÁDIO </h1>
-<p align="center"><a href="https://victorlima-legendary.github.io/TEMPO_DE_AVIVAMENTO_WEB_2/">LINK PARA O SITE "LINK TO WEBSITE"</a></p>
+<p align="center"><a href="https://tempoavivamento.com.br/">LINK PARA O SITE "LINK TO WEBSITE"</a></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-5-orange?style=for-the-badge" />
@@ -30,7 +30,7 @@
 
   <summary>🚧 Projeto em desenvolvimento</summary>
   <p>O site ainda está sendo desenvolvido. feedbacks são bem-vindos!</p>
-  <a href="https://victorlima-legendary.github.io/TEMPO_DE_AVIVAMENTO_WEB_2/">LINK PARA O SITE "LINK TO WEBSITE"</a>
+  <a href="https://tempoavivamento.com.br/">LINK PARA O SITE "LINK TO WEBSITE"</a>
 </details>
 
 
