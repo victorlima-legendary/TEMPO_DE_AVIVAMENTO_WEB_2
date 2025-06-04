@@ -23,7 +23,8 @@
 <details>
 
   <summary>🚧 Projeto em desenvolvimento</summary>
-  <p>O site ainda está sendo desenvolvido. Algumas seções podem estar incompletas ou com bugs. feedbacks são bem-vindos!</p>
+  <p>O site ainda está sendo desenvolvido. feedbacks são bem-vindos!</p>
+  <a href="https://victorlima-legendary.github.io/TEMPO_DE_AVIVAMENTO_WEB_2/">LINK PARA O SITE "LINK TO WEBSITE"</a>
 </details>
 
 
