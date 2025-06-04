@@ -1,13 +1,10 @@
 ![Status](https://img.shields.io/badge/STATUS-FIRST%20VERSION%20RELEASED-RED?style=for-the-badge)
 </br>
-## FIRST VERSION HAS BEEN RELEASED, NEXT UPDATES WILL NOT BEEN POSTED HERE (This site is now private, files is now unavailable).
+## THE FILES ON THIS SITE WILL BE PRIVATE FROM THE LAUNCH DATE. TO ACCESS, CLICK ON THE LINK BELOW..
 
-### WEB RÁDIO TEMPO DE AVIVAMENTO, CRIADO POR MIM E ADMINISTRADO PELA MISS. SUELI F. SANTOS.
+#### WEB RADIO TEMPO DE AVIVAMENTO, CREATED BY ME AND ADMINISTERED BY MISS. SUELI F. SANTOS.
 </br>
-(WEB RADIO TEMPO DE AVIVAMENTO, CREATED BY ME AND ADMINISTERED BY MISS. SUELI F. SANTOS).
-</br>
-</br>
-<p>Why? from now on, next version of this website will be private. beacause of this, this repository will no longer be updated. this first version is here to help me with my portfolio.<p>
+<p>Why? This site is now private, and the first version has been released, if you want to access it to see my work use the link below. This post is here to help with my portfolio.<p>
 </br>
 <h1 align="center">🚀 PROJETO WEB RÁDIO </h1>
 <p align="center"><a href="https://tempoavivamento.com.br/">LINK PARA O SITE "LINK TO WEBSITE"</a></p>
