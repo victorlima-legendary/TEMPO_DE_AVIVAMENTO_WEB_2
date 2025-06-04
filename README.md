@@ -7,7 +7,7 @@
 <p>Why? This site is now private, and the first version has been released, if you want to access it to see my work use the link below. This post is here to help with my portfolio.<p>
 </br>
 <h1 align="center">🚀 PROJETO WEB RÁDIO </h1>
-<p align="center"><a target="__blank" href="https://tempoavivamento.com.br/">LINK PARA O SITE "LINK TO WEBSITE"</a></p>
+<p align="center"><a target="_blank" href="https://tempoavivamento.com.br/">LINK PARA O SITE "LINK TO WEBSITE"</a></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-5-orange?style=for-the-badge" />
